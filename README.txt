@@ -1,6 +1,6 @@
 Mais um projeto assim como os outros, apenas para afins de conhecimentos.
 
-Projeto desenvolvindo na MaratonaDev realizado pelo pessoal da Rocktseat.
+Projeto desenvolvido na MaratonaDev realizado pelo pessoal da Rocktseat.
 
 Tecnologias abordadas nesse projeto:
 
