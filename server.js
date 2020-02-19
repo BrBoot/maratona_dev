@@ -72,8 +72,7 @@ server.post("/", function(req, res) {
 
     if (name == "" || email == "" || blood == ""){
         
-        return res.send("Todos os campos devem ser preenchidos!")   
-        
+        return res.send("Todos os campos devem ser preenchidos!")        
         
     }
 
